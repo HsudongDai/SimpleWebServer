@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Final Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Final_Server_jar</output-path>
+    <root id="archive" name="Final Server.jar">
+      <element id="module-output" name="Final Server" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/annotations-17.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
